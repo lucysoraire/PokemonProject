@@ -2,7 +2,7 @@
 
 <br>
 
->*Cómo práctica del primer módulo de Rolling Code nos solitaron realizar la réplica de una página web de Pokémon.*
+>*Como práctica del primer módulo de Rolling Code nos solitaron realizar la réplica de una página web de Pokémon.*
 
 <br>
 
